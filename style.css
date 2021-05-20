@@ -68,7 +68,7 @@ p .login-btn-text{
 	resize: horizontal;
 	overflow: hidden;
 	width: 1000px;
-	height: 100vh;
+	height: auto;
 	z-index: 2;
 }
 
